@@ -37,3 +37,11 @@ SQUARE + [ R1 / R2 ] | Gripper kiri mencapit / membuka.
 CIRCLE + [ R1 / R2 ] | Gripper kanan mencapit / membuka.
 LEFT ANALOG | Manuver berputar.
 RIGHT ANALOG | Manuver kinematis.
+
+<br><br>
+
+## Authors
+#### Code Initiator / Referencer
+- Firman
+#### Kinematic movement algorithm
+- Mas Bima
