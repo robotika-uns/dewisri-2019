@@ -1,4 +1,4 @@
-![Logo](https://github.com/firmanadiyuda/dewi-sri/blob/master/logo.png)
+![Logo](https://github.com/robotika-uns/dewi-sri/blob/master/logo.png)
 
 <span align="center">
  
