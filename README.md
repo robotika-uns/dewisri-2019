@@ -1,4 +1,4 @@
-![Logo](https://github.com/robotika-uns/dewi-sri/blob/master/logo.png)
+![Logo](https://github.com/robotika-uns/dewisri-2019/blob/master/logo.png)
 
 <span align="center">
  
